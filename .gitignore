@@ -1,0 +1,17 @@
+build/
+bin/
+data/
+docs/
+include/gis_data/
+src/gis_data/
+include/utils/useful_function.h
+src/utils/useful_function.cc
+debug/
+config/
+images/
+result/
+scripts/
+lib/
+env/
+.vscode/
+CMakeLists.txt
